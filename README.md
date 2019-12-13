@@ -1,2 +1,2 @@
-# Examples
-Example Code Snippets
+# Code Snippets
+## C# Snippet for thread safe Data manipulation
