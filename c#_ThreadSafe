@@ -52,6 +52,6 @@ public sealed class MySingleton
 
     private void Refresh()
     {
-        //depending on the operation, lock again
+        //someCode
     }
 }
